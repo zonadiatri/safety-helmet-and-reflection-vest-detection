@@ -9,7 +9,7 @@
 
 Mentee assignment from IBM Advance AI @ Infinite Learning 🚀 🚀 
 
-Pada Project ini membuat deteksi alat K3 menggunakan Algoritma Deep Learning dengan model Yolo v5, dan juga kami menggunakan Roboflof dalam mentraining data.
+Pada Project ini membuat deteksi alat K3 menggunakan Algoritma Deep Learning dengan model Yolo v5, dan juga kami menggunakan Roboflow dalam mentraining data.
 
 
 
